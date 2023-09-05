@@ -1,0 +1,111 @@
+
+.main{
+    display: flex;
+    justify-content: space-between;
+}
+.name{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 0%;
+    line-height: 40%;
+}
+.email{
+    margin-top: 20px;
+}
+.info{
+    
+    display: flex;
+}
+.profile{
+     margin-left: 30px;
+     font-style: italic;
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     color: orange;
+
+
+}
+.about{
+    margin-top: 5px;
+    margin-left: 50px;
+}
+.edu{
+    display: flex;
+}
+.edu2{
+    margin-left: 30px;
+    font-style: italic ;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: orange;
+}
+.clg{
+    
+     margin-left: 115px;
+     margin-top: 10px;
+     line-height: 0%;
+}
+
+ 
+ 
+.lang{
+    display: flex;
+}
+.lang2{
+    margin-left: 30px;
+    font-style: italic ;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: orange;
+    font-size: large;
+}
+.type{
+    margin-left: 70px;
+    margin-top: 2%;
+}
+
+
+
+.main2{
+    display: flex;
+}
+.skill{
+    margin-left: 30px;
+    font-style: italic ;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: orange;
+    font-size: large;
+}
+.skill2{
+    margin-left: 115px;
+    margin-top: 2%;
+}
+
+
+
+.main3{
+    display: flex;
+}
+.hob{
+    margin-left: 30px;
+    font-style: italic ;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: orange;
+    font-size: large;
+}
+.hob2{
+    margin-left: 90px;
+    margin-top: 2%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
